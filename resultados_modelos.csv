@@ -1,0 +1,4 @@
+modelo,acuracia,f1_macro
+TF-IDF + Regressão Logística,0.4499,0.4474
+BERTimbau V1,0.4491,0.4420
+BERTimbau V2,0.4593,0.4561
